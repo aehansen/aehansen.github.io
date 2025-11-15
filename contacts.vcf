@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Andrés Hansen
+N:Hansen;Andrés;;;
+item1.EMAIL;TYPE=INTERNET:aehansen@prefecturanaval.gov.ar
+item1.X-ABLabel:
+item2.TEL:11 6227-7894
+item2.X-ABLabel:
+item3.ADR:;;Av. Eduardo Madero 235;Cdad. Autónoma de Buenos Aires;;C1037;AR
+ ;Av. Eduardo Madero 235\nC1037 Cdad. Autónoma de Buenos Aires\nAR
+item3.X-ABLabel:
+ORG:Prefectura Naval Argentina
+TITLE:Desarrollador GIS - Dirección de Informática y Comunicaciones
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzEqoM_oNpFElqPg5iNzVW
+ VQBD-0JMLwFCirueZ61RWVHkKlgNh9
+CATEGORIES:myContacts
+END:VCARD
